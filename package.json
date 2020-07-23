@@ -10,6 +10,6 @@
   "license": "ISC",
   "devDependencies": {
     "mocha": "^4.0.1",
-    "mocha-junit-reporter": "^2.0.0"
+    "mocha-junit-reporter": "1.13.0"
   }
 }
